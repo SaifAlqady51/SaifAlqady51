@@ -6,9 +6,4 @@ I'm Saif, Full-Stack developer from Egypt.
 
 ## My skills
 
-[![My Skills](https://skillicons.dev/icons?i=ts,html,css,wasm)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=go,html,css,wasm)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=graphql,html,css,wasm)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nextjs,html,css,wasm)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=postgres,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nextjs,react,redux,tailwind,figma,go,graphql,postgres)](https://skillicons.dev)
