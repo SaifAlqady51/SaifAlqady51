@@ -12,8 +12,8 @@ I'm Saif, Full-Stack developer from Egypt.
 
 ### Back-End
 
-[![My Skills](https://skillicons.dev/icons?i=trpc,go,graphql,postgres,mongodb,nestjs,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,graphql,postgres,mongodb,nestjs,)](https://skillicons.dev)
 
-### Back-End
+### DevOps
 
 [![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,githubactions,)](https://skillicons.dev)
