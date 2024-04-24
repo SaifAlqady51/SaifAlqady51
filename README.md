@@ -6,4 +6,14 @@ I'm Saif, Full-Stack developer from Egypt.
 
 ## My skills
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,nextjs,react,redux,tailwind,styledcomponents,figma,svelte,html,css,go,graphql,postgres,docker,nestjs)](https://skillicons.dev)
+### Front-End
+
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nextjs,react,redux,tailwind,styledcomponents,figma,svelte,html,css,materialui)](https://skillicons.dev)
+
+### Back-End
+
+[![My Skills](https://skillicons.dev/icons?i=trpc,go,graphql,postgres,mongodb,nestjs,)](https://skillicons.dev)
+
+### Back-End
+
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,githubactions,)](https://skillicons.dev)
