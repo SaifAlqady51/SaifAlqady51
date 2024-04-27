@@ -18,4 +18,4 @@ I'm Saif, Full-Stack developer from Egypt.
 
 [![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,githubactions,)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaifAlqady51)
+[![Saif's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SaifAlqady51&layout=compact)](https://github.com/SaifAlqady51/github-readme-stats)
