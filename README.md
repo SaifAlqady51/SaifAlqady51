@@ -17,5 +17,3 @@ I'm Saif, Full-Stack developer from Egypt.
 ### DevOps
 
 [![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,githubactions,)](https://skillicons.dev)
-
-[![Saif's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SaifAlqady51&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
