@@ -20,7 +20,8 @@ I'm Saif, Full-Stack developer from Egypt.
 
 # Get in Touch
 
-- 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/saif-alqady-098642237/)
+- 🔗 LinkedIn: <a href="https://www.linkedin.com/in/saif-alqady-098642237/
+  " target="_blank">LinkedIn Profile</a>
 - 🌐 Portfolio: [Website](https://my-profile-nu-one.vercel.app/)
 - 📧 Email: saifalqady52@gmail.com
 - 🐦 Twitter: [Saif's Account](https://twitter.com/saif_alqady)
