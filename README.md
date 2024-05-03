@@ -8,7 +8,7 @@ I'm Saif, Full-Stack developer from Egypt.
 
 ### Evvent AS - Remote (Norway)
 
-_Marketplace Startup_
+_Preseed Marketplace Startup_
 
 - **Frontend Developer (Remote)**
   _Dec 2023 - Apr 2024_
