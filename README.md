@@ -17,3 +17,12 @@ I'm Saif, Full-Stack developer from Egypt.
 ### DevOps
 
 [![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,githubactions,)](https://skillicons.dev)
+
+# Work Experience
+
+## Evvent AS - Remote (Norway)
+
+_Marketplace Startup_
+
+- **Frontend Developer (Remote)**
+  _Dec 2023 - Apr 2024_
