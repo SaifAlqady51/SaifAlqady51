@@ -26,3 +26,5 @@ _Marketplace Startup_
 
 - **Frontend Developer (Remote)**
   _Dec 2023 - Apr 2024_
+  - [Recommendation letter](https://drive.google.com/file/d/1h-mkXpXxVAB6gkjjiepRRo-Iz3w4gdLY/view?usp=sharing)
+  - [Certification](https://drive.google.com/file/d/1qflveiMaM9na5PXj9Rcer_ULzGxqVqWP/view?usp=sharing)
