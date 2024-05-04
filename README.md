@@ -2,8 +2,6 @@
 
 I'm Saif, Full-Stack developer from Egypt.
 
-![Saif's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaifAlqady51&hide=stars)
-
 # Work Experience
 
 ### Evvent AS - Remote (Norway)
