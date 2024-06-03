@@ -25,4 +25,4 @@ _Preseed Marketplace Startup_
 
 ### DevOps
 
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,githubactions,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,githubactions,kafka)](https://skillicons.dev)
