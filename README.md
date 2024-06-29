@@ -1,6 +1,6 @@
 # Hello, folks!
 
-I'm Saif, Full-Stack developer from Egypt.
+I'm Saif, your cozy developer
 
 # My skills
 
